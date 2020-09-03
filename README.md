@@ -1,5 +1,15 @@
 ### Hi there, I'm Michael👋
 
+I'm a full stack web developer witha background in political science. I thought I wanted to be a lwayer but then I rediscovered my love for coding and set out to become a software developer instead. I'm passionate about learning and teaching others. 
+
+💬 Ask me about sports, history, video games, books, technology or anything else that comes to mind. I'm always happy to learn about things that other people are passionate about 
+
+📫 How to reach me: 
+  <p align="left">
+  <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></code>
+  </p>
+
+
 ### My skills include
 <p align="left>
   <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></code>
