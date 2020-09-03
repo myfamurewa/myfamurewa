@@ -7,8 +7,8 @@ I'm a full stack web developer witha background in political science. I thought 
 📫 How to reach me: 
   <p align="left">
   <code><a href="https://twitter.com/Mfamurewa"><img width="40" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png' /></a></code>
-  <code><img width="40" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png' /></code>
-  myfamurewa@gmail.com
+  <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"   /></code>
+  <br>myfamurewa@gmail.com
   </p>
  
  🌱 I’m currently learning: MongoDB
