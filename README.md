@@ -6,7 +6,8 @@ I'm a full stack web developer witha background in political science. I thought 
 
 📫 How to reach me: 
   <p align="left">
-  <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></code>
+  <code><a href="https://twitter.com/Mfamurewa"><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a></code>
+  <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></code>
   </p>
 
 
