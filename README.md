@@ -5,6 +5,7 @@ I'm a full stack web developer with a background in political science. I thought
 💬 Ask me about sports, history, video games, books, technology or anything else that comes to mind. I'm always happy to learn about things that people are passionate about 
 
 📫 How to reach me: 
+  <br>
   [<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png" alt="linkedin logo">](https://www.linkedin.com/in/myfamurewa)
   [<img src="https://img.icons8.com/material/24/000000/twitter--v1.png" alt="linkedin logo">](https://www.twitter.com/mfamurewa)
  
