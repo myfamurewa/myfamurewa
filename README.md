@@ -5,11 +5,8 @@ I'm a full stack web developer with a background in political science. I thought
 💬 Ask me about sports, history, video games, books, technology or anything else that comes to mind. I'm always happy to learn about things that people are passionate about 
 
 📫 How to reach me: 
-  <p align="left">
-  <code><a href="https://twitter.com/Mfamurewa"><img width="40" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png' /></a></code>
-  <code> <a href="mailto:myfamurewa@gmail.com"><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"   /></a></code>
-
-  </p>
+  [<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png" alt="linkedin logo">](https://www.linkedin.com/in/myfamurewa)
+  [<img src="https://img.icons8.com/material/24/000000/twitter--v1.png" alt="linkedin logo">](https://www.twitter.com/mfamurewa)
  
  🌱 I’m currently learning: MongoDB
 
