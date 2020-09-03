@@ -8,7 +8,9 @@ I'm a full stack web developer with a background in political science. I thought
   <br>
   [<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png" alt="linkedin logo">](https://www.linkedin.com/in/myfamurewa)
   [<img src="https://img.icons8.com/material/24/000000/twitter--v1.png" alt="linkedin logo">](https://www.twitter.com/mfamurewa)
+  <br>
  🔭 I’m currently working on: an app to keep track of all the books I've rad this year
+ <br>
  🌱 I’m currently learning: MongoDB
 
 
