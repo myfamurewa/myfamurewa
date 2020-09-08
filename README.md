@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael👋
 
-I'm a full stack web developer with a background in political science. I thought I wanted to be a lawyer but then I rediscovered my love for coding and set out to become a software developer. I'm passionate about learning and teaching others. 
+I'm a full stack web developer with a background in political science. I thought I wanted to be a lawyer but then I rediscovered my love for coding and became a software developer. I'm passionate about learning and teaching others. 
 
 💬 Ask me about sports, history, video games, books, technology or anything else that comes to mind. I'm always happy to learn about things that people are passionate about 
 
