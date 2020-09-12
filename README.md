@@ -33,7 +33,7 @@ I'm a full stack web developer with a background in political science. I thought
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png'/></code>                                                                                     
 </p>
 
-<img align="left" alt="myfamurewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=myfamurewa&show_icons=ture&hide_border=true"/>
+<img align="left" alt="myfamurewa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=myfamurewa&show_icons=ture&hide_border=true&count_private=true"/>
 
 <!--
 **myfamurewa/myfamurewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
