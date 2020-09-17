@@ -11,11 +11,11 @@ I'm a full stack web developer with a background in political science. I thought
   
   <br>
   
- 🔭 I’m currently working on: an app to keep track of all the books I've read this year
+ 🔭 I’m currently working on: recreating a previous project using React Native
  
  <br>
  
- 🌱 I’m currently learning: MongoDB
+ 🌱 I’m currently learning: React Native
 
 
 ### My skills include
