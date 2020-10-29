@@ -8,7 +8,7 @@ I'm a full stack web developer with a background in political science. I thought
   <br>
   [<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png" alt="linkedin logo">](https://www.linkedin.com/in/myfamurewa)
   [<img src="https://img.icons8.com/material/24/000000/twitter--v1.png" alt="linkedin logo">](https://www.twitter.com/mfamurewa)
-  <br>Check out my website: michaelfamurewa.com
+  <br>Check out my website: https://michaelfamurewa.com/
   
   <br>
   
