@@ -16,7 +16,7 @@ I'm a full stack web developer with a background in political science. I thought
  
  <br>
  
- 🌱 I’m currently learning: React Native, Ruby on Rails
+ 🌱 I’m currently learning: React Native
 
 
 ### My skills include
